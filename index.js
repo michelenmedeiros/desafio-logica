@@ -1,5 +1,5 @@
 // Array de heróis e XP
-let herois = ["Bataman", "Superman", "Mulher Maravilha"];
+let herois = ["Batman", "Superman", "Mulher Maravilha"];
 let xpHerois = [12000, 3500, 7000];
 const heroiMensagem = "O Herói de nome ";
 const nivelHeroiMensagem = " está no nível ";
