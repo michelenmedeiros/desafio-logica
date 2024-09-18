@@ -35,7 +35,7 @@ for (let i = 0; i < herois.length; i++) {
     else if (xp >= 8001 && xp <= 10000) {
         classificacao = "Imortal";
     }
-    else (xp >= 10001) {
+    else {(xp >= 10001) 
         classificacao = "Radiante";
     }
 
