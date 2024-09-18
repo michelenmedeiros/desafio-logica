@@ -35,7 +35,7 @@ else if (xp >= 6001 && xp <= 8000) {
 else if (xp >= 8001 && xp <= 10000) {
     classificacao = "Imortal";
 }
-else if (xp >= 10001) {
+else (xp >= 10001) {
     classificacao = "Radiante";
 }
 
